@@ -1,11 +1,11 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+Это проект лабораторной работы №2 для студентов ФПМИ.
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Работу выполнил студент: Иванов Иван, подгруппа 2.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Для сборки проекта используйте команду `gcc` или запустите workflow `run`.
